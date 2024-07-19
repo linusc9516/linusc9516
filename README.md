@@ -1,4 +1,4 @@
-## Welcome to my GitHub!
+## Welcome to my GitHub profile nya~!
 Hi! I'm Linus, but I prefer to go by slmlaggi online. Student based in HK, 16, Any/All.
 
 Don't be misleaded by my userstats. I enjoy doing backend more than frontend actually. Just making sites for fun I guess :3
