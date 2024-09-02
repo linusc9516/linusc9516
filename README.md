@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Welcome to my GitHub profile nya~!<br>Hi! I'm Linus, but I prefer to go by slmlaggi online. Student based in HK, 16, Any/All.<br><br>Don't be misleaded by my userstats. I enjoy doing backend more than frontend actually. Just making sites for fun I guess :3<br><br>More information about me can be found on the [about page](https://slmlaggi.github.io/about) on my website!
+
+#### Welcome to my GitHub profile nya~!<br>Hi! I'm Linus, but I prefer to go by slmlaggi online. Student based in HK, 16, Any/All.<br><br>Don't be misleaded by my userstats. I enjoy doing backend more than frontend actually. Just making sites for fun I guess :3<br><br>More information about me can be found on the [about page](https://slmlaggi.github.io/about) on my website!
 
 
 ## 🌐 Socials:
