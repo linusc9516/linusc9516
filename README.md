@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile. I'm Linus, a Grade 11 student based in Hong Kong, and will be participating in the International Olympiad of Artificial Intelligence in 2025. <br>I find interest mainly in Machine Learning and Artificial Intelligence, but I also am passionate about various branches of Mathematics, Physics, and Philosophy.<br>Connect with me on the platforms below if you want to have a chat!
+Welcome to my profile! I'm Linus, a Grade 12 student based in Hong Kong, and will soon be studying Computer Science at Nanyang Technological University (barring any late offers). <br>I find interest mainly in Machine Learning and Artificial Intelligence, but I also am passionate about various branches of Mathematics, Physics, and Philosophy. When I'm not on my computer, you can find me reading or playing the piano! I also enjoy racket sports, especially table tennis and badminton.<br>Connect with me on the platforms below if you want to have a chat!
 
 
 ## 🌐 Socials:
