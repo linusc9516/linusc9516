@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile! I'm Linus, a Grade 12 student based in Hong Kong, and will soon be studying Computer Science at Nanyang Technological University (barring any late offers). <br>I find interest mainly in Machine Learning and Artificial Intelligence, but I also am passionate about various branches of Mathematics, Physics, and Philosophy. When I'm not on my computer, you can find me reading or playing the piano! I also enjoy racket sports, especially table tennis and badminton.<br>Connect with me on the platforms below if you want to have a chat!
+Hey there! I'm Linus, a Year 1 Computer Science student at Nanyang Technological University, Singapore. <br>I find interest mainly in Artificial Intelligence and Cybersecurity, but I also am passionate about various branches of Mathematics, Physics, and Philosophy. When I'm not on my computer, you can find me reading or trying to learn a new language! I also enjoy sports, especially football, table tennis and badminton.<br>Connect with me on the platforms below if you want to have a chat!
 
 
 ## 🌐 Socials:
@@ -21,12 +21,4 @@ Welcome to my profile! I'm Linus, a Grade 12 student based in Hong Kong, and wil
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=linusc9516&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=linusc9516&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=linusc9516&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=linusc9516&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=linusc9516&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&theme=catppuccin_mocha)
