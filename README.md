@@ -21,4 +21,4 @@ Hey there! I'm Linus, a Year 1 Computer Science student at Nanyang Technological
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&theme=catppuccin_mocha)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
