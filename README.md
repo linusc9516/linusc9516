@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Linus, a Year 1 Computer Science student at Nanyang Technological University, Singapore. <br>I find interest mainly in Artificial Intelligence and Cybersecurity, but I also am passionate about various branches of Mathematics, Physics, and Philosophy. When I'm not on my computer, you can find me reading or trying to learn a new language! I also enjoy sports, especially football, table tennis and badminton.<br>Connect with me on the platforms below if you want to have a chat!
+Hey there! I'm Linus, a Year 1 Computer Science student at Nanyang Technological University, Singapore. <br>I find interest mainly in Artificial Intelligence and Cybersecurity, but I also am passionate about various branches of Engineering, Mathematics, and Physics. When I'm not on my computer, you can find me reading or trying to learn a new language! I also enjoy sports, especially football, table tennis and badminton.<br>Connect with me on the platforms below if you want to have a chat!
 
 
 ## 🌐 Socials:
