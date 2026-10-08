@@ -1,13 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="card-dark-anim.svg">
-  <img src="card-light-anim.svg" alt="Terminal-style profile card for Linus Chik (linusc9516). Prompt: ssh@ntu-singapore, ~/linusc9516, branch about-me, UTC+8. pfetch output: focus AI safety (mechanistic interpretability, low-level ML); now ARENA curriculum; tools Python, PyTorch, TransformerLens, inspect_ai, NumPy, JAX; NTU Singapore CS Y1; shell fish; editor nvim and Zed; languages en, zh-HK, zh-CN, es, ja; status open to collabs.">
+  <img src="card-light-anim.svg" alt="Terminal-style profile card for Linus Chik (linusc9516). Prompt: ssh@ntu-singapore, ~/linusc9516, branch about-me, UTC+8. pfetch output: focus AI safety (mechanistic interpretability, low-level ML); now ARENA curriculum; tools Python, PyTorch, TransformerLens, inspect_ai, NumPy, JAX; NTU Singapore CS Y1; award IOAI 2025 bronze; shell fish; editor nvim and Zed; languages en, zh-HK, zh-CN, es, ja; status open to collabs.">
 </picture>
 
 ## ~/projects
 
-- [bid-pricing-collusion](https://github.com/linusc9516/bid-pricing-collusion): do LLM bidders learn to take turns winning sealed-bid auctions? 190 sessions across three models, no rotation found.
-- [Soular](https://github.com/endernoke/soular)
-<!-- TODO: add Soular description and result -->
+- [bid-pricing-collusion](https://github.com/linusc9516/bid-pricing-collusion): do LLM bidders learn to take turns winning sealed-bid auctions? 190 sessions across three models, no rotation found so far, further investigation continues.
+- [Soular](https://github.com/endernoke/soular): a mobile app where youths plan, organise and publicise environmental events in one place. Built with React Native and Supabase, with an event feed, group chat and an AI copilot.
 
 ## ~/contact
 
