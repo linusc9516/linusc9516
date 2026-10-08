@@ -64,7 +64,7 @@
 <text x="244" y="297" fill="#209fb5" class="t b">shell</text>
 <text x="311.6" y="297" fill="#7287fd" class="t">fish</text>
 <text x="244" y="320" fill="#209fb5" class="t b">editor</text>
-<text x="311.6" y="320" fill="#7287fd" class="t">nvim, Zed</text>
+<text x="311.6" y="320" fill="#7287fd" class="t">nvim, zed</text>
 <text x="244" y="343" fill="#209fb5" class="t b">lang</text>
 <text x="311.6" y="343" fill="#7287fd" class="t">en zh-HK zh-CN es ja</text>
 <text x="244" y="366" fill="#209fb5" class="t b">status</text>

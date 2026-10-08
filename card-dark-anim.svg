@@ -74,7 +74,7 @@
 <g class="rv" style="animation-delay:2.92s"><text x="244" y="297" fill="#74c7ec" class="t b">shell</text>
 <text x="311.6" y="297" fill="#b4befe" class="t">fish</text></g>
 <g class="rv" style="animation-delay:3.02s"><text x="244" y="320" fill="#74c7ec" class="t b">editor</text>
-<text x="311.6" y="320" fill="#b4befe" class="t">nvim, Zed</text></g>
+<text x="311.6" y="320" fill="#b4befe" class="t">nvim, zed</text></g>
 <g class="rv" style="animation-delay:3.12s"><text x="244" y="343" fill="#74c7ec" class="t b">lang</text>
 <text x="311.6" y="343" fill="#b4befe" class="t">en zh-HK zh-CN es ja</text></g>
 <g class="rv" style="animation-delay:3.22s"><text x="244" y="366" fill="#74c7ec" class="t b">status</text>
