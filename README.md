@@ -1,24 +1,15 @@
-# 💫 About Me:
-Hey there! I'm Linus, a Year 1 Computer Science student at Nanyang Technological University, Singapore. <br>I find interest mainly in Artificial Intelligence and Cybersecurity, but I also am passionate about various branches of Engineering, Mathematics, and Physics. When I'm not on my computer, you can find me reading or trying to learn a new language! I also enjoy sports, especially football, table tennis and badminton.<br>Connect with me on the platforms below if you want to have a chat!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="card-dark-anim.svg">
+  <img src="card-light-anim.svg" alt="Terminal-style profile card for Linus Chik (linusc9516). Prompt: ssh@ntu-singapore, ~/linusc9516, branch about-me, UTC+8. pfetch output: focus AI safety (mechanistic interpretability, low-level ML); now ARENA curriculum; tools Python, PyTorch, TransformerLens, inspect_ai, NumPy, JAX; NTU Singapore CS Y1; shell fish; editor nvim and Zed; languages en, zh-HK, zh-CN, es, ja; status open to collabs.">
+</picture>
 
+## ~/projects
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linusc9516) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linusc9516) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16915067) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/linusc9516) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/linusc9516) 
+- [bid-pricing-collusion](https://github.com/linusc9516/bid-pricing-collusion): do LLM bidders learn to take turns winning sealed-bid auctions? 190 sessions across three models, no rotation found.
+- [Soular](https://github.com/endernoke/soular)
+<!-- TODO: add Soular description and result -->
 
-# 📚 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+## ~/contact
 
-# 🤖 AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-# 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-# 🖥️ Backend
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-# 🚀 Other skills
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-# 📊 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=linusc9516&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
+[LinkedIn](https://linkedin.com/in/linusc9516) · [X](https://x.com/linusc9516) · linusc9516 [at] gmail [dot] com
+<!-- TODO: add personal site/blog link once it is refurbished -->
