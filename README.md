@@ -10,5 +10,5 @@
 
 ## <img src="branch.svg" height="20" alt=""> contact
 
-[LinkedIn](https://linkedin.com/in/linusc9516) · [X](https://x.com/linusc9516) · linusc9516 [at] gmail [dot] com
+[LinkedIn](https://linkedin.com/in/linusc9516) · [X](https://x.com/linusc9516) · [Personal Website](https://linusc9516.github.io) · linusc9516 [at] gmail [dot] com
 <!-- TODO: add personal site/blog link once it is refurbished -->
