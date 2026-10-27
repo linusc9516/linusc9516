@@ -10,4 +10,4 @@
 
 ## <img src="branch.svg" height="20" alt=""> contact
 
-[LinkedIn](https://linkedin.com/in/linuschik) · [X](https://x.com/linuschik) · [Homepage](https://linuschik.com) · linusc9516 [at] gmail [dot] com
+[LinkedIn](https://linkedin.com/in/linuschik) · [X](https://x.com/linuschik) · [Homepage](https://linuschik.com) · linus [at] linuschik [dot] com
